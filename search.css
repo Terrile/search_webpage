@@ -1,0 +1,103 @@
+
+
+.home_body{
+    margin: 0;
+    padding: 0;
+}
+
+.home_box{
+    align-content: center;
+    width: 600px;
+    height: 200px;
+    float: left;
+}
+
+.home_form{
+    float: left;
+    width: 300px;
+    margin-top: 200px;
+    margin-left: 400px;
+}
+
+.home_submit{
+    float: left;
+    width: 60px;
+}
+
+.queryarea{
+    margin-left: 200px;
+    margin-top: 20px;
+    border-left: 0px;
+    padding-left: 0px;
+}
+.searchbox{
+    width: 600px;
+    height: 20px;
+    align-content: center;
+    float: left;
+}
+
+.searchcontent{
+    margin-left: 200px;
+}
+
+.searchlist{
+    margin-left: 0px;
+    border-left: 0px;
+    padding-left: 0px;
+}
+.searchitem{
+    list-style-type: none;
+    margin-left: 0px;
+    margin-top: 20px;
+    border-left: 0px;
+    padding-left: 0px;
+    clear: both;
+}
+
+.richitem{
+    margin-top: 10px;
+}
+.img_area{
+    max-width: 105px;
+    margin-right: 10px;
+    float: left;
+}
+
+.info_area{
+}
+
+.searchtitle{
+    font-size:18px;
+    border: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+.titlelink{
+    text-decoration: none;
+}
+
+.snipt{
+    border: 0px;margin: 0px;padding: 0px width: 10px; max-width: 600px
+}
+
+.opsarea{
+    margin-left: 0px;
+    margin-top: 5px;
+    clear: both;
+}
+
+.ops_download{
+    text-decoration: none;
+}
+
+.ops_buy{
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.ops_print{
+    text-decoration: none;
+    margin-left: 10px;
+}
+
