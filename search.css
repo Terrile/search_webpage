@@ -5,18 +5,27 @@
     padding: 0;
 }
 
+.home_logo{
+    margin-top: 200px;
+    margin-left: 500px;
+    margin-bottom: 0px;
+    align-content: center;
+}
+
 .home_box{
     align-content: center;
-    width: 600px;
-    height: 200px;
+   /* width: 600px;
+    height: 200px;*/
     float: left;
 }
 
 .home_form{
     float: left;
     width: 300px;
-    margin-top: 200px;
+   /* margin-top: 200px;*/
+    margin-top:0px;
     margin-left: 400px;
+    padding-top: 0px;
 }
 
 .home_submit{
@@ -30,6 +39,14 @@
     border-left: 0px;
     padding-left: 0px;
 }
+
+.home_searchbox{
+    width: 400px;
+    height: 20px;
+    /*align-content: center;*/
+    float: left;
+}
+
 .searchbox{
     width: 600px;
     height: 20px;
